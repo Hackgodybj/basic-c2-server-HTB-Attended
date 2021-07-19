@@ -1,2 +1,4 @@
 # Python-C2-Server
-Python C2 Server is a multi client C2/post exploitation framework with some spyware features. Powered by Python 3.8. 6 and QT Framework.
+I Create this python c2 server while i was upagainst Hackthebox one of the Insane machine Names as Attended, this is a just basic c2 serber without more funcationality.
+
+i will reprogram it for better use..!
